@@ -1,0 +1,9 @@
+.boton{
+    background-color: blue;    
+}
+
+.efecto:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+    box-shadow: 0 0 10px rgba(0,123,255,0.3);
+}
